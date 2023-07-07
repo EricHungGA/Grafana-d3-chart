@@ -1,6 +1,6 @@
 # Grafana panel plugin template
 
-This template is a starting point for building a panel plugin for Grafana.
+This template is a starting point for building a panel plugin for Grafana. Documentation going over how to build the panel: https://web.archive.org/web/20230612155248/https://grafana.com/tutorials/build-a-panel-plugin-with-d3/
 
 ## What are Grafana panel plugins?
 
